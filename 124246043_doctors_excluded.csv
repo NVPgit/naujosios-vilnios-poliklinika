@@ -1,5 +1,19 @@
-Sqlcmd: Error: Microsoft ODBC Driver 11 for SQL Server : SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF]. .
-Sqlcmd: Error: Microsoft ODBC Driver 11 for SQL Server : TCP Provider: Timeout error [258]. .
-Sqlcmd: Error: Microsoft ODBC Driver 11 for SQL Server : Login timeout expired.
-Sqlcmd: Error: Microsoft ODBC Driver 11 for SQL Server : Unable to complete login process due to delay in login response.
-Sqlcmd: Error: Microsoft ODBC Driver 11 for SQL Server : A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online..
+istaigos_kodas;gydytojo_ID;data_nuo;data_iki;iraso_sukurimo_data
+124246043;15196;2025-06-02;2025-06-06;2025-05-19 03:00
+124246043;19037;2025-06-02;2025-06-13;2025-05-19 03:00
+124246043;19038;2025-06-09;2025-06-27;2025-05-19 03:00
+124246043;19043;2025-05-26;2025-06-09;2025-05-19 03:00
+124246043;19092;2025-05-26;2025-06-06;2025-05-19 03:00
+124246043;19206;2025-06-16;2025-06-27;2025-05-19 03:00
+124246043;19214;2025-05-19;2025-05-30;2025-05-19 03:00
+124246043;19248;2025-06-16;2025-07-14;2025-05-19 03:00
+124246043;22290;2025-05-14;2025-06-06;2025-05-19 03:00
+124246043;22290;2025-06-09;2025-06-09;2025-05-19 03:00
+124246043;24988;2025-05-19;2025-05-19;2025-05-19 03:00
+124246043;25347;2025-06-16;2025-06-27;2025-05-19 03:00
+124246043;26275;2025-05-22;2025-05-22;2025-05-19 03:00
+124246043;26275;2025-05-23;2025-05-23;2025-05-19 03:00
+124246043;26275;2025-05-26;2025-05-26;2025-05-19 03:00
+124246043;26275;2025-06-11;2025-06-11;2025-05-19 03:00
+124246043;30333;2025-05-19;2025-05-30;2025-05-19 03:00
+124246043;31123;2025-05-29;2025-05-29;2025-05-19 03:00
